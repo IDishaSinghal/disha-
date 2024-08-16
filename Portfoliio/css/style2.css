@@ -1,0 +1,27 @@
+.row{
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 40px;
+}
+.te{
+    margin-top: 20px;
+   
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.custom-class {
+    padding: 3rem; /* Equivalent to p-5 */
+    margin-bottom: 1.5rem; /* Equivalent to mb-4 */
+    background-color: var(--bs-body-tertiary-bg); /* Assuming bg-body-tertiary uses a CSS variable */
+    border-radius: 0.3rem; /* Equivalent to rounded-3 */
+    background-color: black;
+  }
+  .custom-display {
+    font-size: calc(1.5rem + 4.5vw); /* Adjust if necessary */
+    font-weight: 700;
+    color:white; /* Replace with your desired color */
+  }
+  
+  
